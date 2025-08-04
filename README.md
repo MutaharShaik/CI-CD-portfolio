@@ -1,6 +1,7 @@
 # 🚀 CI/CD for Data Engineering Pipelines – Portfolio Project
 
-![Pipeline Diagram](./assets/Deploying%20Code%20to%20Production%20diagram.png)
+## 📊 CI/CD Architecture Diagram
+![CI/CD Pipeline](assets/deploying-code-to-production.png)
 
 This project simulates a real-world **Data Engineering CI/CD Pipeline** using GitHub Actions, Terraform, AWS (RDS, S3), and Python ETL jobs.
 It reflects enterprise-grade workflows for deploying and managing data pipelines with proper branching, testing, staging, and production rollouts.
